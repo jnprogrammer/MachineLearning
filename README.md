@@ -10,4 +10,12 @@ Deep Learning A-Z™: Hands-On Artificial Neural Networks
 Artificial Intelligence A-Z™: Learn How To Build An AI
 Artificial Intelligence: Reinforcement Learning in Python
 
-I'll upload all material here.  
+I've also enrolled in a Coursera class 
+
+Introduction to Mathematical Thinking
+
+This course is because I've learn that knowing how to think the way mathematicians do allows you to read algorithms better when it comes to machine learning. I've decided I will achive this level of depth in this topic. 
+
+I will have a complete project done by 
+
+1/16/2020
