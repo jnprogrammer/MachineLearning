@@ -1,21 +1,48 @@
+
 # MachineLearning
+
+  
 
 Start: 12/21/19
 
-A repo dedicated to learning Machine Learning, Deep learning and AI so that I can combind this technology with Kubernetes to build a Mechine learning network running with kubernetes. 
+  
 
-I've bought 3 courses on Udemy 
+A repo dedicated to learning Machine Learning, Deep learning and AI so that I can combine this technology with Kubernetes to build a Machine learning network running with kubernetes.
 
-Deep Learning A-Z™: Hands-On Artificial Neural Networks
-Artificial Intelligence A-Z™: Learn How To Build An AI
-Artificial Intelligence: Reinforcement Learning in Python
+  
 
-I've also enrolled in a Coursera class 
+I've bought 3 courses on Udemy
 
-Introduction to Mathematical Thinking
+  
 
-This course is because I've learn that knowing how to think the way mathematicians do allows you to read algorithms better when it comes to machine learning. I've decided I will achive this level of depth in this topic. 
+-   Deep Learning A-Z™: Hands-On Artificial Neural Networks
+    
+-   Artificial Intelligence A-Z™: Learn How To Build An AI
+    
+-   Artificial Intelligence: Reinforcement Learning in Python
+    
 
-I will have a complete project done by 
+  
+
+I've also enrolled in a Coursera class
+
+  
+
+-   Introduction to Mathematical Thinking
+    
+
+  
+
+This course is programming related because it teaches me how to read math as mathematicians do when explaining abstract concepts like The Upper Confidence Bounds which is expressed as Q(a)≤ˆQt(a)+ˆUt(a).
+
+  
+
+At the time of writing this readme I don’t understand how to read that function yet. I know the coding will be the easier part as once I have achieved understanding I will be able to create at will.
+
+  
+
+I will have a complete project done by
+
+  
 
 1/16/2020
