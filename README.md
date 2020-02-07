@@ -57,3 +57,5 @@ My Journey in Learning ML has lead me to a differnt Udemy course
 -   Tensorflow 2.0: Deep Learning and Artificial Intelligence
 
 The work I've jumped into has brought me to a point of understanding to what I need to focuse on, Statistics. 
+
+FYI: when using Google colabs to run TensorFlow 2.0.0 beta you'll need to run that command twice.
